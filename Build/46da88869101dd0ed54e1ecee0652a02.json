@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "thomas-roll-a-ball",
+"productVersion": "0.1",
+"dataUrl": "2e45768a126f2e0c4948ef14495c2ca2.unityweb",
+"wasmCodeUrl": "254800957b9c8562f12833e7cf129ed4.unityweb",
+"wasmFrameworkUrl": "7180e502abd03a34c69acd6daeec5145.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
